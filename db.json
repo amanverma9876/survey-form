@@ -1,0 +1,17 @@
+{
+    "questions": {
+      "Technology": [
+        { "label": "What is your favorite programming language?", "type": "text" },
+        { "label": "How many years of experience do you have?", "type": "number" }
+      ],
+      "Health": [
+        { "label": "How often do you exercise?", "type": "text" },
+        { "label": "What is your diet preference?", "type": "text" }
+      ],
+      "Education": [
+        { "label": "What is your highest qualification?", "type": "text" },
+        { "label": "What was your field of study?", "type": "text" }
+      ]
+    }
+  }
+  
